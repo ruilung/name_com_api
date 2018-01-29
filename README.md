@@ -1,0 +1,3 @@
+- get domain list from name.com
+- for loop to get domain records
+- write them to file
